@@ -5,10 +5,9 @@ const saudacao = require('../src/modulo.js');
 
 describe('Testes para a função saudacao', () => {
   test('Deve retornar uma saudação correta', () => {
-    const resultado = saudacao('Usuários');
+    const resultado = saudacao('Usuário');
     expect(resultado).toBe('Olá, Usuário!');
   });
-
 });
 
 test('soma 1 + 2 para igual a 3', () => {
