@@ -9,7 +9,6 @@ Passo 2: Estrutura do Projeto
 Vamos criar a estrutura básica do projeto. A estrutura de pastas deve ser semelhante a esta:
 
 ```bash
-Copy code
 meu-projeto/
   |- .github/
   |   |- workflows/
